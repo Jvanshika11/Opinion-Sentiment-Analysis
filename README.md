@@ -3,9 +3,8 @@
 ## Seet up the environment as follow:
 1. Install python==3.9.0
 2. Install the following libraries using pip
-<ol>
+
   a. pytorch = 1.13.1
-  
   
   b. pytorch-lightning = 1.8.1
   
@@ -24,4 +23,3 @@
   i. nltk = 3.8.1
   
   j. stanza = 1.4.2
-</ol>
