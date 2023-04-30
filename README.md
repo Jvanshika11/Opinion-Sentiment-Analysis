@@ -24,6 +24,12 @@
   
   j. stanza = 1.4.2
 
+## Execution:
+You can run the code using this command:
+python tester.py --n_runs 5 
+
+### You can use gpu with specifying gpu-id using the --gpu flag. for example:
+python tester.py --n_runs 5 --gpu 0
 
 ## Overview:
 Using the aspect_category, aspect_term, and  sentence triplet, we aim with developing a classifier to predict the positive, negative, or neutral polarities of opinions in sentences. 
