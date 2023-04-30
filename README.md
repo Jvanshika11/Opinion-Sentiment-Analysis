@@ -28,7 +28,8 @@
 You can run the code using this command:
 python tester.py --n_runs 5 
 
-### You can use gpu with specifying gpu-id using the --gpu flag. for example:
+### You can use gpu with specifying gpu-id using the --gpu flag. 
+For example:
 python tester.py --n_runs 5 --gpu 0
 
 ## Overview:
